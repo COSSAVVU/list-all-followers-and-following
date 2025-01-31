@@ -393,13 +393,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/cfrBernard">
-        <img src="https://avatars.githubusercontent.com/u/153459846?v=4" width="50" />
-        <br />
-        cfrBernard
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/FarzaneF">
         <img src="https://avatars.githubusercontent.com/u/153289838?v=4" width="50" />
         <br />
@@ -413,7 +406,6 @@
         AkweteyJacob
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nastaranmofakhami">
         <img src="https://avatars.githubusercontent.com/u/150142712?v=4" width="50" />
@@ -421,6 +413,7 @@
         nastaranmofakhami
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/StefanHritcu">
         <img src="https://avatars.githubusercontent.com/u/148911384?v=4" width="50" />
@@ -449,7 +442,6 @@
         IljaZimakovs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Fes-Ble-2023">
         <img src="https://avatars.githubusercontent.com/u/147013305?v=4" width="50" />
@@ -457,6 +449,7 @@
         Fes-Ble-2023
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/emma-ctrl-22">
         <img src="https://avatars.githubusercontent.com/u/146957037?v=4" width="50" />
@@ -485,7 +478,6 @@
         M-Yadolahi
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/popstar7">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
@@ -493,6 +485,7 @@
         popstar7
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Hfid-Mokhtare">
         <img src="https://avatars.githubusercontent.com/u/137907946?v=4" width="50" />
@@ -521,7 +514,6 @@
         hamed6600
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/otaviossousa">
         <img src="https://avatars.githubusercontent.com/u/130789571?v=4" width="50" />
@@ -529,11 +521,19 @@
         otaviossousa
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/GideonTwum">
         <img src="https://avatars.githubusercontent.com/u/126887627?v=4" width="50" />
         <br />
         GideonTwum
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/jahidnation">
+        <img src="https://avatars.githubusercontent.com/u/126762798?v=4" width="50" />
+        <br />
+        jahidnation
       </a>
     </td>
     <td width="150" align="center">
@@ -883,13 +883,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/aaronmcleancs">
-        <img src="https://avatars.githubusercontent.com/u/71683074?v=4" width="50" />
-        <br />
-        aaronmcleancs
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/peter-kimanzi">
         <img src="https://avatars.githubusercontent.com/u/71552773?v=4" width="50" />
         <br />
@@ -917,7 +910,6 @@
         gerMdz
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nholuongut">
         <img src="https://avatars.githubusercontent.com/u/58627821?v=4" width="50" />
@@ -925,6 +917,7 @@
         nholuongut
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/niklashenning">
         <img src="https://avatars.githubusercontent.com/u/58544929?v=4" width="50" />
@@ -951,6 +944,13 @@
         <img src="https://avatars.githubusercontent.com/u/54245038?v=4" width="50" />
         <br />
         codeperfectplus
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/alicangunduz">
+        <img src="https://avatars.githubusercontent.com/u/54004830?v=4" width="50" />
+        <br />
+        alicangunduz
       </a>
     </td>
   </tr><tr>
