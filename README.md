@@ -904,12 +904,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/ChinmayKaitade">
+        <img src="https://avatars.githubusercontent.com/u/67671917?v=4" width="50" />
+        <br />
+        ChinmayKaitade
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/gerMdz">
         <img src="https://avatars.githubusercontent.com/u/59092100?v=4" width="50" />
         <br />
         gerMdz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nholuongut">
         <img src="https://avatars.githubusercontent.com/u/58627821?v=4" width="50" />
@@ -917,7 +925,6 @@
         nholuongut
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/niklashenning">
         <img src="https://avatars.githubusercontent.com/u/58544929?v=4" width="50" />
@@ -944,13 +951,6 @@
         <img src="https://avatars.githubusercontent.com/u/54245038?v=4" width="50" />
         <br />
         codeperfectplus
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/alicangunduz">
-        <img src="https://avatars.githubusercontent.com/u/54004830?v=4" width="50" />
-        <br />
-        alicangunduz
       </a>
     </td>
   </tr><tr>
