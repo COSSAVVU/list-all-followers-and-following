@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Computing Science Students' Association | This is the GitHub page of Computing Science Students' Association from Valley View University. | [vvu.edu.gh](https://vvu.edu.gh) | Accra - Ghana | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>153</kbd>
+## Followers <kbd>152</kbd>
 
 <table>
   <tr>
@@ -1041,13 +1041,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/sungeer">
-        <img src="https://avatars.githubusercontent.com/u/26924670?v=4" width="50" />
-        <br />
-        sungeer
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/djvelimir">
         <img src="https://avatars.githubusercontent.com/u/20823832?v=4" width="50" />
         <br />
@@ -1061,7 +1054,6 @@
         IDouble
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shyakadev">
         <img src="https://avatars.githubusercontent.com/u/16863527?v=4" width="50" />
@@ -1069,6 +1061,7 @@
         shyakadev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dotsehyde">
         <img src="https://avatars.githubusercontent.com/u/14269395?v=4" width="50" />
@@ -1097,7 +1090,6 @@
         idimetrix
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/arash-hacker">
         <img src="https://avatars.githubusercontent.com/u/6451804?v=4" width="50" />
@@ -1105,6 +1097,7 @@
         arash-hacker
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/XiaomingX">
         <img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="50" />
@@ -1118,6 +1111,8 @@
         <br />
         VictorHaine
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
