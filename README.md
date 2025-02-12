@@ -134,10 +134,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Felix-react">
+      <a href="https://github.com/Felix-Web-Dev">
         <img src="https://avatars.githubusercontent.com/u/180760153?v=4" width="50" />
         <br />
-        Felix-react
+        Felix-Web-Dev
       </a>
     </td>
     <td width="150" align="center">
@@ -3761,10 +3761,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Felix-react">
+      <a href="https://github.com/Felix-Web-Dev">
         <img src="https://avatars.githubusercontent.com/u/180760153?v=4" width="50" />
         <br />
-        Felix-react
+        Felix-Web-Dev
       </a>
     </td>
     <td width="150" align="center">
