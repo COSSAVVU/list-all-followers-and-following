@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Computing Science Students' Association | This is the GitHub page of Computing Science Students' Association from Valley View University. | [vvu.edu.gh](https://vvu.edu.gh) | Accra - Ghana | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>153</kbd>
+## Followers <kbd>152</kbd>
 
 <table>
   <tr>
@@ -26,17 +26,17 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/AI4Networking">
+        <img src="https://avatars.githubusercontent.com/u/202362359?v=4" width="50" />
+        <br />
+        AI4Networking
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/aburraspace">
         <img src="https://avatars.githubusercontent.com/u/196363280?v=4" width="50" />
         <br />
         aburraspace
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/GitRektify">
-        <img src="https://avatars.githubusercontent.com/u/194601037?v=4" width="50" />
-        <br />
-        GitRektify
       </a>
     </td>
     <td width="150" align="center">
@@ -1113,11 +1113,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/VictorHaine">
-        <img src="https://avatars.githubusercontent.com/u/4723109?v=4" width="50" />
-        <br />
-        VictorHaine
-      </a>
     </td>
     <td width="150" align="center">
     </td>
