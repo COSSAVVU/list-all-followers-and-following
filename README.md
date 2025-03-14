@@ -407,13 +407,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/ZahraSahranavard">
+        <img src="https://avatars.githubusercontent.com/u/155989843?v=4" width="50" />
+        <br />
+        ZahraSahranavard
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/fireman03151">
         <img src="https://avatars.githubusercontent.com/u/155723330?v=4" width="50" />
         <br />
         fireman03151
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/GoldenDev321">
         <img src="https://avatars.githubusercontent.com/u/155573135?v=4" width="50" />
@@ -440,13 +447,6 @@
         <img src="https://avatars.githubusercontent.com/u/154842909?v=4" width="50" />
         <br />
         psemicol
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/CandleLearner-M">
-        <img src="https://avatars.githubusercontent.com/u/154463223?v=4" width="50" />
-        <br />
-        CandleLearner-M
       </a>
     </td>
   </tr><tr>
