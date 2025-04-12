@@ -314,10 +314,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/nelbetancur">
+      <a href="https://github.com/ls7co">
         <img src="https://avatars.githubusercontent.com/u/161765219?v=4" width="50" />
         <br />
-        nelbetancur
+        ls7co
       </a>
     </td>
     <td width="150" align="center">
@@ -3562,10 +3562,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Rza2005ni">
+      <a href="https://github.com/Rez4-3yz">
         <img src="https://avatars.githubusercontent.com/u/167752965?v=4" width="50" />
         <br />
-        Rza2005ni
+        Rez4-3yz
       </a>
     </td>
     <td width="150" align="center">
