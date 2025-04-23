@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Computing Science Students' Association | This is the GitHub page of Computing Science Students' Association from Valley View University. | [vvu.edu.gh](https://vvu.edu.gh) | Accra - Ghana | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>160</kbd>
+## Followers <kbd>161</kbd>
 
 <table>
   <tr>
@@ -645,6 +645,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/amirallami-code">
+        <img src="https://avatars.githubusercontent.com/u/123266762?v=4" width="50" />
+        <br />
+        amirallami-code
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/fourby">
         <img src="https://avatars.githubusercontent.com/u/123106574?v=4" width="50" />
         <br />
@@ -658,6 +665,7 @@
         keithgabriel
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/daniees45">
         <img src="https://avatars.githubusercontent.com/u/121725281?v=4" width="50" />
@@ -665,7 +673,6 @@
         daniees45
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/FlutterSmith">
         <img src="https://avatars.githubusercontent.com/u/118023886?v=4" width="50" />
@@ -694,6 +701,7 @@
         bhza
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/meory101">
         <img src="https://avatars.githubusercontent.com/u/113821964?v=4" width="50" />
@@ -701,7 +709,6 @@
         meory101
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Armah-Tandoh">
         <img src="https://avatars.githubusercontent.com/u/113040611?v=4" width="50" />
@@ -730,6 +737,7 @@
         mahdi00007
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JuxtCode">
         <img src="https://avatars.githubusercontent.com/u/107889984?v=4" width="50" />
@@ -737,7 +745,6 @@
         JuxtCode
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SamuelD0tcher">
         <img src="https://avatars.githubusercontent.com/u/107714526?v=4" width="50" />
@@ -766,6 +773,7 @@
         Bikmandjuma
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/x-shadoww">
         <img src="https://avatars.githubusercontent.com/u/105951717?v=4" width="50" />
@@ -773,7 +781,6 @@
         x-shadoww
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AWESOME04">
         <img src="https://avatars.githubusercontent.com/u/102630199?v=4" width="50" />
@@ -802,6 +809,7 @@
         amirebadi21
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/d-donne">
         <img src="https://avatars.githubusercontent.com/u/97479751?v=4" width="50" />
@@ -809,7 +817,6 @@
         d-donne
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Burkifa23">
         <img src="https://avatars.githubusercontent.com/u/97257798?v=4" width="50" />
@@ -838,6 +845,7 @@
         cgrundman
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/EddyKubwimana">
         <img src="https://avatars.githubusercontent.com/u/92218436?v=4" width="50" />
@@ -845,7 +853,6 @@
         EddyKubwimana
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Playfloor">
         <img src="https://avatars.githubusercontent.com/u/90979253?v=4" width="50" />
@@ -874,6 +881,7 @@
         Danielkojo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Sarrac3873">
         <img src="https://avatars.githubusercontent.com/u/86988333?v=4" width="50" />
@@ -881,7 +889,6 @@
         Sarrac3873
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Presholad">
         <img src="https://avatars.githubusercontent.com/u/83636654?v=4" width="50" />
@@ -910,6 +917,7 @@
         OmarSalhab
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0vm">
         <img src="https://avatars.githubusercontent.com/u/79897291?v=4" width="50" />
@@ -917,7 +925,6 @@
         0vm
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tickle35">
         <img src="https://avatars.githubusercontent.com/u/79730838?v=4" width="50" />
@@ -946,6 +953,7 @@
         rr3s1
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JohnMwendwa">
         <img src="https://avatars.githubusercontent.com/u/72663882?v=4" width="50" />
@@ -953,7 +961,6 @@
         JohnMwendwa
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/HosseinJafari2001">
         <img src="https://avatars.githubusercontent.com/u/70998598?v=4" width="50" />
@@ -982,6 +989,7 @@
         nholuongut
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/niklashenning">
         <img src="https://avatars.githubusercontent.com/u/58544929?v=4" width="50" />
@@ -989,7 +997,6 @@
         niklashenning
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/koffie99">
         <img src="https://avatars.githubusercontent.com/u/57778281?v=4" width="50" />
@@ -1018,6 +1025,7 @@
         charles-haris
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/emmanuelvelmo">
         <img src="https://avatars.githubusercontent.com/u/51292782?v=4" width="50" />
@@ -1025,7 +1033,6 @@
         emmanuelvelmo
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sali72">
         <img src="https://avatars.githubusercontent.com/u/48308299?v=4" width="50" />
@@ -1054,6 +1061,7 @@
         kimman8
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Kwynto">
         <img src="https://avatars.githubusercontent.com/u/31433211?v=4" width="50" />
@@ -1061,7 +1069,6 @@
         Kwynto
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Chitus">
         <img src="https://avatars.githubusercontent.com/u/29604662?v=4" width="50" />
@@ -1090,6 +1097,7 @@
         sungeer
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/djvelimir">
         <img src="https://avatars.githubusercontent.com/u/20823832?v=4" width="50" />
@@ -1097,7 +1105,6 @@
         djvelimir
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/IDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50" />
@@ -1126,6 +1133,7 @@
         schalkventer
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cano392">
         <img src="https://avatars.githubusercontent.com/u/7428090?v=4" width="50" />
@@ -1133,7 +1141,6 @@
         cano392
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/KylerCondran">
         <img src="https://avatars.githubusercontent.com/u/7399939?v=4" width="50" />
@@ -1162,12 +1169,21 @@
         trinhminhtriet
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jimrtyler">
         <img src="https://avatars.githubusercontent.com/u/321528?v=4" width="50" />
         <br />
         jimrtyler
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
