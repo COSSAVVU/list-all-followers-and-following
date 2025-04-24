@@ -1188,7 +1188,7 @@
   </tr>
 </table>
 
-## Following <kbd>390</kbd>
+## Following <kbd>391</kbd>
 
 <table>
   <tr>
@@ -3986,18 +3986,34 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/ipqwery">
+        <img src="https://avatars.githubusercontent.com/u/188051590?v=4" width="50" />
+        <br />
+        ipqwery
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/iot2edge">
         <img src="https://avatars.githubusercontent.com/u/188053512?v=4" width="50" />
         <br />
         iot2edge
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/edge2ai">
         <img src="https://avatars.githubusercontent.com/u/188786292?v=4" width="50" />
         <br />
         edge2ai
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
