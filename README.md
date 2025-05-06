@@ -3319,10 +3319,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/NGNLblank">
+      <a href="https://github.com/RodneyKumah">
         <img src="https://avatars.githubusercontent.com/u/151750652?v=4" width="50" />
         <br />
-        NGNLblank
+        RodneyKumah
       </a>
     </td>
   </tr><tr>
@@ -3816,10 +3816,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/tiIsit">
+      <a href="https://github.com/ukfr">
         <img src="https://avatars.githubusercontent.com/u/176836892?v=4" width="50" />
         <br />
-        tiIsit
+        ukfr
       </a>
     </td>
     <td width="150" align="center">
