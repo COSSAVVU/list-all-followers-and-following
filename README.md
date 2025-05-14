@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Computing Science Students' Association | This is the GitHub page of Computing Science Students' Association from Valley View University. | [vvu.edu.gh](https://vvu.edu.gh) | Accra - Ghana | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>158</kbd>
+## Followers <kbd>159</kbd>
 
 <table>
   <tr>
@@ -890,6 +890,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Thuotracy">
+        <img src="https://avatars.githubusercontent.com/u/80819977?v=4" width="50" />
+        <br />
+        Thuotracy
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/joemar25">
         <img src="https://avatars.githubusercontent.com/u/80235976?v=4" width="50" />
         <br />
@@ -910,6 +917,7 @@
         tickle35
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/fesarikaya">
         <img src="https://avatars.githubusercontent.com/u/78736670?v=4" width="50" />
@@ -917,7 +925,6 @@
         fesarikaya
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/helallao">
         <img src="https://avatars.githubusercontent.com/u/78656003?v=4" width="50" />
@@ -946,6 +953,7 @@
         JohnMwendwa
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/HosseinJafari2001">
         <img src="https://avatars.githubusercontent.com/u/70998598?v=4" width="50" />
@@ -953,7 +961,6 @@
         HosseinJafari2001
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kafui010">
         <img src="https://avatars.githubusercontent.com/u/68136826?v=4" width="50" />
@@ -982,6 +989,7 @@
         niklashenning
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/koffie99">
         <img src="https://avatars.githubusercontent.com/u/57778281?v=4" width="50" />
@@ -989,7 +997,6 @@
         koffie99
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/BEPb">
         <img src="https://avatars.githubusercontent.com/u/57312267?v=4" width="50" />
@@ -1018,6 +1025,7 @@
         emmanuelvelmo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sali72">
         <img src="https://avatars.githubusercontent.com/u/48308299?v=4" width="50" />
@@ -1025,7 +1033,6 @@
         sali72
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jfullstackdev">
         <img src="https://avatars.githubusercontent.com/u/47092464?v=4" width="50" />
@@ -1054,6 +1061,7 @@
         Kwynto
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Chitus">
         <img src="https://avatars.githubusercontent.com/u/29604662?v=4" width="50" />
@@ -1061,7 +1069,6 @@
         Chitus
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/minion4code">
         <img src="https://avatars.githubusercontent.com/u/28304925?v=4" width="50" />
@@ -1090,6 +1097,7 @@
         guevaraStian
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/djvelimir">
         <img src="https://avatars.githubusercontent.com/u/20823832?v=4" width="50" />
@@ -1097,7 +1105,6 @@
         djvelimir
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/IDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50" />
@@ -1126,6 +1133,7 @@
         schalkventer
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cano392">
         <img src="https://avatars.githubusercontent.com/u/7428090?v=4" width="50" />
@@ -1133,7 +1141,6 @@
         cano392
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/KylerCondran">
         <img src="https://avatars.githubusercontent.com/u/7399939?v=4" width="50" />
@@ -1154,8 +1161,6 @@
         <br />
         jimrtyler
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
