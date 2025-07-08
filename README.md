@@ -803,10 +803,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/AWESOME04">
+      <a href="https://github.com/evansachie">
         <img src="https://avatars.githubusercontent.com/u/102630199?v=4" width="50" />
         <br />
-        AWESOME04
+        evansachie
       </a>
     </td>
   </tr><tr>
@@ -2679,10 +2679,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/AWESOME04">
+      <a href="https://github.com/evansachie">
         <img src="https://avatars.githubusercontent.com/u/102630199?v=4" width="50" />
         <br />
-        AWESOME04
+        evansachie
       </a>
     </td>
     <td width="150" align="center">
