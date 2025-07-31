@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Computing Science Students' Association | This is the GitHub page of Computing Science Students' Association from Valley View University. | [vvu.edu.gh](https://vvu.edu.gh) | Accra - Ghana | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>169</kbd>
+## Followers <kbd>170</kbd>
 
 <table>
   <tr>
@@ -1221,6 +1221,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/seehiong">
+        <img src="https://avatars.githubusercontent.com/u/6965893?v=4" width="50" />
+        <br />
+        seehiong
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/idimetrix">
         <img src="https://avatars.githubusercontent.com/u/6536323?v=4" width="50" />
         <br />
@@ -1233,8 +1240,6 @@
         <br />
         jimrtyler
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
