@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Computing Science Students' Association | This is the GitHub page of Computing Science Students' Association from Valley View University. | [vvu.edu.gh](https://vvu.edu.gh) | Accra - Ghana | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>170</kbd>
+## Followers <kbd>168</kbd>
 
 <table>
   <tr>
@@ -1163,20 +1163,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/guevaraStian">
-        <img src="https://avatars.githubusercontent.com/u/22348210?v=4" width="50" />
-        <br />
-        guevaraStian
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/djvelimir">
         <img src="https://avatars.githubusercontent.com/u/20823832?v=4" width="50" />
         <br />
         djvelimir
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/IDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50" />
@@ -1205,7 +1198,6 @@
         schalkventer
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kai392">
         <img src="https://avatars.githubusercontent.com/u/7428090?v=4" width="50" />
@@ -1213,18 +1205,12 @@
         kai392
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/KylerCondran">
         <img src="https://avatars.githubusercontent.com/u/7399939?v=4" width="50" />
         <br />
         KylerCondran
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/seehiong">
-        <img src="https://avatars.githubusercontent.com/u/6965893?v=4" width="50" />
-        <br />
-        seehiong
       </a>
     </td>
     <td width="150" align="center">
@@ -1240,6 +1226,10 @@
         <br />
         jimrtyler
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
