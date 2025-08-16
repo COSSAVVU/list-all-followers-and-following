@@ -609,10 +609,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ToSuccessForever">
+      <a href="https://github.com/TERA-star">
         <img src="https://avatars.githubusercontent.com/u/128123195?v=4" width="50" />
         <br />
-        ToSuccessForever
+        TERA-star
       </a>
     </td>
     <td width="150" align="center">
