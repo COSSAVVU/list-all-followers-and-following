@@ -573,10 +573,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/meliksahyorulmazlar">
+      <a href="https://github.com/kamilmeliksahyorulmazlar">
         <img src="https://avatars.githubusercontent.com/u/141827156?v=4" width="50" />
         <br />
-        meliksahyorulmazlar
+        kamilmeliksahyorulmazlar
       </a>
     </td>
     <td width="150" align="center">
