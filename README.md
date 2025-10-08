@@ -119,10 +119,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/anthonycancelled">
+      <a href="https://github.com/emotabii">
         <img src="https://avatars.githubusercontent.com/u/191940437?v=4" width="50" />
         <br />
-        anthonycancelled
+        emotabii
       </a>
     </td>
   </tr><tr>
