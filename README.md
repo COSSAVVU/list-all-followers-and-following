@@ -2869,10 +2869,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/zipIoc">
+      <a href="https://github.com/itaIia">
         <img src="https://avatars.githubusercontent.com/u/176836892?v=4" width="50" />
         <br />
-        zipIoc
+        itaIia
       </a>
     </td>
     <td width="150" align="center">
