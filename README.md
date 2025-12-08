@@ -127,10 +127,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/emotabii">
+      <a href="https://github.com/wiIsonn">
         <img src="https://avatars.githubusercontent.com/u/191940437?v=4" width="50" />
         <br />
-        emotabii
+        wiIsonn
       </a>
     </td>
     <td width="150" align="center">
@@ -623,10 +623,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/TERA-star">
+      <a href="https://github.com/svendotdev">
         <img src="https://avatars.githubusercontent.com/u/128123195?v=4" width="50" />
         <br />
-        TERA-star
+        svendotdev
       </a>
     </td>
   </tr><tr>
