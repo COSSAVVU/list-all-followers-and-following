@@ -285,10 +285,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/cornel-cp">
+      <a href="https://github.com/cornel-pe">
         <img src="https://avatars.githubusercontent.com/u/172536691?v=4" width="50" />
         <br />
-        cornel-cp
+        cornel-pe
       </a>
     </td>
     <td width="150" align="center">
@@ -2782,10 +2782,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/cornel-cp">
+      <a href="https://github.com/cornel-pe">
         <img src="https://avatars.githubusercontent.com/u/172536691?v=4" width="50" />
         <br />
-        cornel-cp
+        cornel-pe
       </a>
     </td>
     <td width="150" align="center">
