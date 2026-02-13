@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Computing Science Students' Association | This is the GitHub page of Computing Science Students' Association from Valley View University. | [vvu.edu.gh](https://vvu.edu.gh) | Accra - Ghana | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>173</kbd>
+## Followers <kbd>162</kbd>
 
 <table>
   <tr>
@@ -703,31 +703,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/zeniofia">
-        <img src="https://avatars.githubusercontent.com/u/122245538?v=4" width="50" />
-        <br />
-        zeniofia
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/daniees45">
         <img src="https://avatars.githubusercontent.com/u/121725281?v=4" width="50" />
         <br />
         daniees45
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/czerid">
-        <img src="https://avatars.githubusercontent.com/u/120347462?v=4" width="50" />
-        <br />
-        czerid
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/susiasa">
-        <img src="https://avatars.githubusercontent.com/u/120318704?v=4" width="50" />
-        <br />
-        susiasa
       </a>
     </td>
     <td width="150" align="center">
@@ -737,7 +716,6 @@
         cepseu1
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/FlutterSmith">
         <img src="https://avatars.githubusercontent.com/u/118023886?v=4" width="50" />
@@ -759,6 +737,7 @@
         KobiEau
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lorde-enigma">
         <img src="https://avatars.githubusercontent.com/u/114457825?v=4" width="50" />
@@ -773,7 +752,6 @@
         meory101
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Armah-Tandoh">
         <img src="https://avatars.githubusercontent.com/u/113040611?v=4" width="50" />
@@ -795,6 +773,7 @@
         FERHATSUMER
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mahdi00007">
         <img src="https://avatars.githubusercontent.com/u/108895538?v=4" width="50" />
@@ -809,7 +788,6 @@
         JuxtCode
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SamuelD0tcher">
         <img src="https://avatars.githubusercontent.com/u/107714526?v=4" width="50" />
@@ -831,6 +809,7 @@
         jerrydaniel144
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Bikmandjuma">
         <img src="https://avatars.githubusercontent.com/u/106157303?v=4" width="50" />
@@ -845,7 +824,6 @@
         x-shadoww
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Hackersgoddest">
         <img src="https://avatars.githubusercontent.com/u/99566599?v=4" width="50" />
@@ -867,6 +845,7 @@
         amirebadi21
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/d-donne">
         <img src="https://avatars.githubusercontent.com/u/97479751?v=4" width="50" />
@@ -881,19 +860,11 @@
         Burkifa23
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/george0st">
         <img src="https://avatars.githubusercontent.com/u/95856749?v=4" width="50" />
         <br />
         george0st
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/Blazt95">
-        <img src="https://avatars.githubusercontent.com/u/94915518?v=4" width="50" />
-        <br />
-        Blazt95
       </a>
     </td>
     <td width="150" align="center">
@@ -910,6 +881,7 @@
         cgrundman
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/EddyKubwimana">
         <img src="https://avatars.githubusercontent.com/u/92218436?v=4" width="50" />
@@ -917,7 +889,6 @@
         EddyKubwimana
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Playfloor">
         <img src="https://avatars.githubusercontent.com/u/90979253?v=4" width="50" />
@@ -946,19 +917,12 @@
         Danielkojo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Sarrac3873">
         <img src="https://avatars.githubusercontent.com/u/86988333?v=4" width="50" />
         <br />
         Sarrac3873
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/Hstkj23">
-        <img src="https://avatars.githubusercontent.com/u/86565570?v=4" width="50" />
-        <br />
-        Hstkj23
       </a>
     </td>
     <td width="150" align="center">
@@ -1055,34 +1019,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/lycherys">
-        <img src="https://avatars.githubusercontent.com/u/59031045?v=4" width="50" />
-        <br />
-        lycherys
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/wenteris">
-        <img src="https://avatars.githubusercontent.com/u/58634785?v=4" width="50" />
-        <br />
-        wenteris
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/nholuongut">
         <img src="https://avatars.githubusercontent.com/u/58627821?v=4" width="50" />
         <br />
         nholuongut
       </a>
     </td>
-    <td width="150" align="center">
-      <a href="https://github.com/xedeline">
-        <img src="https://avatars.githubusercontent.com/u/58417839?v=4" width="50" />
-        <br />
-        xedeline
-      </a>
-    </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/koffie99">
         <img src="https://avatars.githubusercontent.com/u/57778281?v=4" width="50" />
@@ -1095,14 +1038,6 @@
         <img src="https://avatars.githubusercontent.com/u/57312267?v=4" width="50" />
         <br />
         BEPb
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/szenled">
-        <img src="https://avatars.githubusercontent.com/u/56835662?v=4" width="50" />
-        <br />
-        szenled
       </a>
     </td>
     <td width="150" align="center">
@@ -1120,13 +1055,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/rynesix">
-        <img src="https://avatars.githubusercontent.com/u/48758027?v=4" width="50" />
-        <br />
-        rynesix
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/sali72">
         <img src="https://avatars.githubusercontent.com/u/48308299?v=4" width="50" />
         <br />
@@ -1139,13 +1067,6 @@
         <img src="https://avatars.githubusercontent.com/u/47092464?v=4" width="50" />
         <br />
         jfullstackdev
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/cleinvert">
-        <img src="https://avatars.githubusercontent.com/u/46905499?v=4" width="50" />
-        <br />
-        cleinvert
       </a>
     </td>
     <td width="150" align="center">
@@ -1169,7 +1090,6 @@
         Connor9994
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/1Crazymoney">
         <img src="https://avatars.githubusercontent.com/u/35787729?v=4" width="50" />
@@ -1177,6 +1097,7 @@
         1Crazymoney
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Chitus">
         <img src="https://avatars.githubusercontent.com/u/29604662?v=4" width="50" />
@@ -1205,7 +1126,6 @@
         IDouble
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shyakadev">
         <img src="https://avatars.githubusercontent.com/u/16863527?v=4" width="50" />
@@ -1213,6 +1133,7 @@
         shyakadev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dotsehyde">
         <img src="https://avatars.githubusercontent.com/u/14269395?v=4" width="50" />
@@ -1241,7 +1162,6 @@
         KylerCondran
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/idimetrix">
         <img src="https://avatars.githubusercontent.com/u/6536323?v=4" width="50" />
@@ -1249,6 +1169,7 @@
         idimetrix
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/luckchain777">
         <img src="https://avatars.githubusercontent.com/u/5990079?v=4" width="50" />
@@ -1262,6 +1183,8 @@
         <br />
         jimrtyler
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
