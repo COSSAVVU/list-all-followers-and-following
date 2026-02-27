@@ -566,10 +566,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/popstar7">
+      <a href="https://github.com/chrisarnold72">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
         <br />
-        popstar7
+        chrisarnold72
       </a>
     </td>
     <td width="150" align="center">
@@ -2424,10 +2424,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/popstar7">
+      <a href="https://github.com/chrisarnold72">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
         <br />
-        popstar7
+        chrisarnold72
       </a>
     </td>
     <td width="150" align="center">
