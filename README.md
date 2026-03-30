@@ -595,10 +595,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/chrisarnold72">
+      <a href="https://github.com/myVos-dev">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
         <br />
-        chrisarnold72
+        myVos-dev
       </a>
     </td>
     <td width="150" align="center">
@@ -2470,10 +2470,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/chrisarnold72">
+      <a href="https://github.com/myVos-dev">
         <img src="https://avatars.githubusercontent.com/u/141120325?v=4" width="50" />
         <br />
-        chrisarnold72
+        myVos-dev
       </a>
     </td>
     <td width="150" align="center">
