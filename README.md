@@ -400,10 +400,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/thelabmde">
+      <a href="https://github.com/nmbetancur">
         <img src="https://avatars.githubusercontent.com/u/161765219?v=4" width="50" />
         <br />
-        thelabmde
+        nmbetancur
       </a>
     </td>
     <td width="150" align="center">
