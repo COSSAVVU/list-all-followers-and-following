@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Computing Science Students' Association | This is the GitHub page of Computing Science Students' Association from Valley View University. | [vvu.edu.gh](https://vvu.edu.gh) | Accra - Ghana | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>171</kbd>
+## Followers <kbd>168</kbd>
 
 <table>
   <tr>
@@ -1084,21 +1084,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/benalbano">
-        <img src="https://avatars.githubusercontent.com/u/50383486?v=4" width="50" />
-        <br />
-        benalbano
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/jackweirds">
-        <img src="https://avatars.githubusercontent.com/u/49217719?v=4" width="50" />
-        <br />
-        jackweirds
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/sali72">
         <img src="https://avatars.githubusercontent.com/u/48308299?v=4" width="50" />
         <br />
@@ -1112,6 +1097,7 @@
         jfullstackdev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars.githubusercontent.com/u/43516554?v=4" width="50" />
@@ -1133,7 +1119,6 @@
         Connor9994
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/1Crazymoney">
         <img src="https://avatars.githubusercontent.com/u/35787729?v=4" width="50" />
@@ -1148,6 +1133,7 @@
         Chitus
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jelspace">
         <img src="https://avatars.githubusercontent.com/u/27209430?v=4" width="50" />
@@ -1162,14 +1148,6 @@
         djvelimir
       </a>
     </td>
-    <td width="150" align="center">
-      <a href="https://github.com/yulicwan">
-        <img src="https://avatars.githubusercontent.com/u/20564637?v=4" width="50" />
-        <br />
-        yulicwan
-      </a>
-    </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/TimothyZhang7">
         <img src="https://avatars.githubusercontent.com/u/19567494?v=4" width="50" />
@@ -1191,6 +1169,7 @@
         vincentjiang777
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shyakadev">
         <img src="https://avatars.githubusercontent.com/u/16863527?v=4" width="50" />
@@ -1205,7 +1184,6 @@
         simples1
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dotsehyde">
         <img src="https://avatars.githubusercontent.com/u/14269395?v=4" width="50" />
@@ -1227,6 +1205,7 @@
         KylerCondran
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/idimetrix">
         <img src="https://avatars.githubusercontent.com/u/6536323?v=4" width="50" />
@@ -1241,17 +1220,12 @@
         luckchain777
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jimrtyler">
         <img src="https://avatars.githubusercontent.com/u/321528?v=4" width="50" />
         <br />
         jimrtyler
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
