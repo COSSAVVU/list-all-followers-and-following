@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Computing Science Students' Association | This is the GitHub page of Computing Science Students' Association from Valley View University. | [vvu.edu.gh](https://vvu.edu.gh) | Accra - Ghana | [@Valley View University](https://github.com/Valley View University) |
 
-## Followers <kbd>170</kbd>
+## Followers <kbd>175</kbd>
 
 <table>
   <tr>
@@ -23,6 +23,13 @@
         <img src="https://avatars.githubusercontent.com/u/252830575?v=4" width="50" />
         <br />
         bencyriac01
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/9Michael-Cooley">
+        <img src="https://avatars.githubusercontent.com/u/243238181?v=4" width="50" />
+        <br />
+        9Michael-Cooley
       </a>
     </td>
     <td width="150" align="center">
@@ -46,6 +53,7 @@
         RichardTang-Aden
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nykoco">
         <img src="https://avatars.githubusercontent.com/u/233224364?v=4" width="50" />
@@ -53,7 +61,6 @@
         nykoco
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sphinxzerd">
         <img src="https://avatars.githubusercontent.com/u/228416926?v=4" width="50" />
@@ -69,10 +76,39 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/RashidSaeedAlMazrouei18">
+        <img src="https://avatars.githubusercontent.com/u/217552077?v=4" width="50" />
+        <br />
+        RashidSaeedAlMazrouei18
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/badiranssen">
+        <img src="https://avatars.githubusercontent.com/u/216744784?v=4" width="50" />
+        <br />
+        badiranssen
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/ElvinHasanov3d">
+        <img src="https://avatars.githubusercontent.com/u/215983765?v=4" width="50" />
+        <br />
+        ElvinHasanov3d
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/rosem-coder">
         <img src="https://avatars.githubusercontent.com/u/215123728?v=4" width="50" />
         <br />
         rosem-coder
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/KevinWong455">
+        <img src="https://avatars.githubusercontent.com/u/214426701?v=4" width="50" />
+        <br />
+        KevinWong455
       </a>
     </td>
     <td width="150" align="center">
